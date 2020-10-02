@@ -31,6 +31,8 @@ DateTime.LocalNow() as datetime
 else [DT_RET]
 ```
 <p align="justify">After the transformation of null fields</p>
+<img width="124" alt="dt_before" src="https://user-images.githubusercontent.com/45472681/94960124-ad284580-04c8-11eb-9331-cd7103a00b07.png">
+
 
 ## 3º STEP:
 <p align="justify"><b>Creating D_CALENDAR TABLE</b></p>
