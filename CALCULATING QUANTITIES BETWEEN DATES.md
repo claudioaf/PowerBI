@@ -6,11 +6,11 @@
 <p align="justify"><b>Dataset:</b>https://www.kaggle.com/rhuebner/human-resources-data-set</p>
 
 ## 1º STEP:
-<p align="justify">How to calculate</p>
+<p align="justify"><b>How to calculate</b></p>
 <p align="justify">The calculation is performed from the difference between a minimum date and a maximum date</p>
 
 ## 2º STEP:
-<p align="justify">Formatting the company's termination date in Query Editor</p>
+<p align="justify"><b>Formatting the company's termination date in Query Editor</b></p>
 <p align="justify">The <b>DateTime.LocalNow () as datetime</b> function will return the current date</p>
 
 ```r
@@ -23,4 +23,4 @@ else [DT_RET]
 ```
 
 ## 3º STEP:
-
+<p align="justify"><b>Formatting the company's termination date in Query Editor</b></p>
