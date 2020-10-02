@@ -45,3 +45,5 @@ else [DT_RET]
 <img src="https://user-images.githubusercontent.com/45472681/94974354-bf17e180-04e4-11eb-9216-f28ac0c5b418.png">
 <p align="justify"><b>Sorting column MONTH_TEXT by the MONTH_NUM</b></p>
 <img src="https://user-images.githubusercontent.com/45472681/94974452-01d9b980-04e5-11eb-8067-42eb7ab8f6f5.png">
+
+## 4º STEP:
