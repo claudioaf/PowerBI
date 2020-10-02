@@ -88,3 +88,8 @@ IF(
 
 <p align="justify">In this way it is possible to calculate quantities from two different date fields in the same table, without any relationship with the D_CALENDAR table.</p>
 <img src="https://user-images.githubusercontent.com/45472681/94975911-8e867680-04e9-11eb-9660-3e28d5d507cf.PNG">
+
+## KPI:
+<img src="https://user-images.githubusercontent.com/45472681/94976561-c2fb3200-04eb-11eb-93a6-77297c41ce4f.PNG">
+<img src="https://user-images.githubusercontent.com/45472681/94976723-3604a880-04ec-11eb-83c7-e0b4873d8669.PNG">
+
