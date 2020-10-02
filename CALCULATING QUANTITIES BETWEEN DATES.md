@@ -9,10 +9,12 @@
 <p align="justify">The calculation is performed from the difference between a minimum date and a maximum date</p>
 <br>
 <p align="justify"><b>2º STEP:</b> Formatting the company's termination date in Query Editor</p>
-```
+
+```json
 [DT_RET] = null
 then
 DateTime.LocalNow() as datetime
 else
 [DT_RET]
 ```
+
