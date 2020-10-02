@@ -48,6 +48,8 @@ else [DT_RET]
 
 ## 4º STEP:
 <p align="justify"><b>Creating the Measure Headcount</b></p>
+<p align="justify">We will count the amount of the employee ID, whose admission date is less than or equal to the current date and the dismissal date is greater than or equal to the current date.</p>
+<p align="justify">The (<b>VAR</b>) currentdate variable will return the maximum date value for the year and month selected in the filters.</p>
 
 ```r
 HEADCOUNT = 
@@ -55,6 +57,7 @@ HEADCOUNT =
 VAR currentdate = MAX(D_CALENDAR[DATE])
 
 RETURN
+
 IF(
     CALCULATE(
         COUNTA(HRDataset[EmpID]),
@@ -82,3 +85,6 @@ IF(
     )
 )
 ```
+
+<p align="justify">In this way it is possible to calculate quantities from two different date fields in the same table, without any relationship with the D_CALENDAR table.</p>
+<img src="https://user-images.githubusercontent.com/45472681/94975911-8e867680-04e9-11eb-9660-3e28d5d507cf.PNG">
