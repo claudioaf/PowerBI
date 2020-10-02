@@ -6,7 +6,7 @@
 <p align="justify"><b>Dataset:</b>https://www.kaggle.com/rhuebner/human-resources-data-set</p>
 <br>
 <b>STEPS</B>
-- How to calculate
+<br>- How to calculate
 <br>- Formatting the company's termination date in Query Editor
 <br>- Creating Measure Table
 <br>- Creating the Measure Headcount
