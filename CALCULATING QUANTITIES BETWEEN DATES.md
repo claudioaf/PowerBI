@@ -42,3 +42,6 @@ else [DT_RET]
 <img src="https://user-images.githubusercontent.com/45472681/94974019-a3600b80-04e3-11eb-9dfc-b876286811bd.png">
 <img src="https://user-images.githubusercontent.com/45472681/94974024-a824bf80-04e3-11eb-81a0-bd9b654b12f7.png">
 <img src="https://user-images.githubusercontent.com/45472681/94974028-a955ec80-04e3-11eb-8e9d-0b5241b2c997.png">
+<img src="https://user-images.githubusercontent.com/45472681/94974354-bf17e180-04e4-11eb-9216-f28ac0c5b418.png">
+<p align="justify"><b>Sorting column MONTH_TEXT by the MONTH_NUM</b></p>
+<img src="https://user-images.githubusercontent.com/45472681/94974452-01d9b980-04e5-11eb-8067-42eb7ab8f6f5.png">
