@@ -4,6 +4,12 @@
 <p align="justify">We will use variables, and filter context to link the table D_CALENDAR to the table of admission and dismissal dates.</p>
 <p align="justify">To build the example we use part of the HRDataset_v13.csv dataset for modeling and calculating the KPI, available in the kaggle repository.</p>
 <p align="justify"><b>Dataset:</b>https://www.kaggle.com/rhuebner/human-resources-data-set</p>
+<br>
+<b>STEPS</B>
+- How to calculate
+<br>- Formatting the company's termination date in Query Editor
+<br>- Creating Measure Table
+<br>- Creating the Measure Headcount
 
 ## 1º STEP:
 <p align="justify"><b>How to calculate</b></p>
@@ -23,4 +29,5 @@ else [DT_RET]
 ```
 
 ## 3º STEP:
-<p align="justify"><b>Formatting the company's termination date in Query Editor</b></p>
+<p align="justify"><b>Creating D_CALENDAR TABLE</b></p>
+<img width="305" alt="enter data" src="https://user-images.githubusercontent.com/45472681/94939392-73dfdd80-04a8-11eb-947c-4d452a70f040.png">
