@@ -30,4 +30,4 @@ else [DT_RET]
 
 ## 3º STEP:
 <p align="justify"><b>Creating D_CALENDAR TABLE</b></p>
-<img width="305" alt="enter data" src="https://user-images.githubusercontent.com/45472681/94939392-73dfdd80-04a8-11eb-947c-4d452a70f040.png">
+<img width="229" alt="New Table" src="https://user-images.githubusercontent.com/45472681/94940411-dedde400-04a9-11eb-8a35-0c4109091dfb.png">
