@@ -10,11 +10,12 @@
 <br>
 <p align="justify"><b>2º STEP:</b> Formatting the company's termination date in Query Editor</p>
 
-```json
-[DT_RET] = null
+```r
+
+M language 
+if [DT_RET] = null
 then
 DateTime.LocalNow() as datetime
-else
-[DT_RET]
+else [DT_RET]
 ```
 
