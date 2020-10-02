@@ -5,11 +5,13 @@
 <p align="justify">To build the example we use part of the HRDataset_v13.csv dataset for modeling and calculating the KPI, available in the kaggle repository.</p>
 <p align="justify"><b>Dataset:</b>https://www.kaggle.com/rhuebner/human-resources-data-set</p>
 <br>
-<p align="justify"><b>1º STEP:</b> How to calculate</p>
+# 1º STEP:
+<p align="justify">How to calculate</p>
 <p align="justify">The calculation is performed from the difference between a minimum date and a maximum date</p>
 <br>
-<p align="justify"><b>2º STEP:</b> Formatting the company's termination date in Query Editor</p>
-
+# 2º STEP:
+<p align="justify">Formatting the company's termination date in Query Editor</p>
+<p align="justify">The <b>DateTime.LocalNow () as datetime</b> function will return the current date</p>
 ```r
 
 M language 
@@ -18,4 +20,5 @@ then
 DateTime.LocalNow() as datetime
 else [DT_RET]
 ```
+
 
